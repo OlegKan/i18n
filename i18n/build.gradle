@@ -1,0 +1,33 @@
+apply plugin: 'com.android.library'
+apply plugin: 'maven-publish'
+
+android {
+    namespace 'com.simplaapliko.i18n'
+    compileSdk 33
+
+    defaultConfig {
+        minSdk 14
+        targetSdk 33
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+}
+
+afterEvaluate {
+    publishing {
+        publications {
+            release(MavenPublication) {
+                from components.release
+                groupId = 'com.github.simplaapliko'
+                artifactId = 'i18n'
+                version = '0.1.0'
+            }
+        }
+    }
+}
