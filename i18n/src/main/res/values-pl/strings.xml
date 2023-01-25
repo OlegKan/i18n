@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- actions -->
+    <string name="action_add">Dodaj</string>
+    <string name="action_delete">Usuń</string>
+    <string name="action_directions">Trasa</string>
+    <string name="action_edit">Edytuj</string>
+    <string name="action_info">Info</string>
+    <string name="action_refresh">Odśwież</string>
+    <string name="action_restart">Uruchom ponownie</string>
+    <string name="action_retry">Ponów</string>
+    <string name="action_save">Zapisz</string>
+    <string name="action_search">Wyszukiwanie</string>
+    <string name="action_sort">Sortuj</string>
+
+    <string name="notification_channel_description">Powiadomienia</string>
+    <string name="update_downloaded">Aktualizacja została pobrana</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">Beta Testing</string>
+    <string name="action_support">Wsparcie</string>
+    <string name="action_translate">Translate</string>
+    <string name="beta_program_cta">Dołącz</string>
+    <string name="beta_program_description">Dołącz do programu Beta, aby uzyskać wczesny dostęp do nowych funkcji.</string>
+    <string name="thanks_to_translators">Podziękowania dla tłumaczy:</string>
+    <string name="translate_to_your_language_cta">Skontaktuj się z wydawcą</string>
+    <string name="translate_to_your_language_description">Możesz pomóc w tłumaczeniu aplikacji na swój język</string>
+
+    <!-- in-app purchases -->
+    <string name="settings_category_in_app_purchases">Zakupy w aplikacjach</string>
+    <string name="enjoy_until">Funkcja dostępna do: %1$s</string>
+    <string name="license_validation_failed">Weryfikacja licencji nie powiodła się</string>
+    <string name="plus_version_iap_description">Uzyskaj dostęp do wszystkich funkcji, kupując pełną wersję</string>
+    <string name="settings_remove_ads">Usuń reklamy</string>
+    <string name="sale_promotion">WYPRZEDAŻ!</string>
+    <string name="watch_ad">Obejrzyj reklamę</string>
+
+    <!-- errors -->
+    <string name="error_database">Błąd bazy danych</string>
+    <string name="error_http">Błąd HTTP</string>
+    <string name="error_invalid_request">Nieprawidłowe żądanie</string>
+    <string name="error_invalid_response">Nieprawidłowa odpowiedź</string>
+    <string name="error_location_service_not_available">Usługa jest niedostępna.\nSprawdź usługę lokalizacji.</string>
+    <string name="error_network_connection">Przepraszamy, usługa jest niedostępna.\nSprawdź połączenie internetowe.</string>
+    <string name="error_over_query_limit">Osiągnięto limit zapytań, spróbuj później</string>
+    <string name="error_remote_server_connection">Błąd połączenia z serwerem</string>
+    <string name="error_request_denied">Prośba odrzucona</string>
+    <string name="error_zero_results">Brak wyników</string>
+    <string name="error_unknown">Nieznany błąd</string>
+
+    <string name="settings">Ustawienia</string>
+    <string name="settings_category_general">Ustawienia ogólne</string>
+    <string name="time_format_regional">Ustawienia Regionalne</string>
+
+    <string name="language">Język</string>
+
+    <string name="settings_notifications">Powiadomienia</string>
+    <string name="settings_category_notifications">Ustawienia powiadomień</string>
+    <string name="notification_tone">Dźwięk powiadomienia</string>
+    <string name="settings_notifications_sound">Dźwięk</string>
+    <string name="sound_off">Wyłączony</string>
+
+    <string name="settings_about">Informacje</string>
+    <string name="settings_change_log">Lista Zmian</string>
+    <string name="settings_change_log_summary">Lista zmian uwzględnionych w poprzednich aktualizacjach</string>
+    <string name="help">Pomoc i często zadawane pytania</string>
+    <string name="settings_category_information">Informacje</string>
+    <string name="settings_more_from_developer">Więcej od dewelopera</string>
+    <string name="settings_open_source_licenses">Otwórz Licencje Źródłowe</string>
+    <string name="settings_privacy_policy">Polityka prywatności</string>
+    <string name="settings_rate_this_app">Oceń Aplikację</string>
+    <string name="settings_send_feedback">Prześlij opinię</string>
+    <string name="settings_share">Udostępnij Znajomym</string>
+    <string name="settings_support_this_project">Wesprzyj projekt</string>
+
+    <string name="settings_theme">Motyw</string>
+    <string name="theme_system_default">Domyślny systemowy</string>
+    <string name="theme_light">Jasny</string>
+    <string name="theme_dark">Ciemny</string>
+
+    <!-- app rater -->
+    <string name="ar_dialog_rate_title">Oceń Aplikację</string>
+    <string name="ar_dialog_rate_message">Jeśli lubisz korzystać z naszej aplikacji, miałbyś chwilę, żeby ją ocenić? To nie zajmie dłużej niż minutę.\n\nDziękujemy za Twoje wsparcie!</string>
+    <string name="ar_dialog_rate_positive_button_rate">Oceń Aplikację</string>
+    <string name="ar_dialog_rate_negative_button">Później</string>
+    <string name="ar_dialog_rate_neutral_button">Nie, dziękuję</string>
+    <string name="ar_unable_to_find_google_play">Nie można znaleźć aplikacji Sklep Google Play</string>
+
+    <!-- about -->
+    <string name="a_feedback_message">Napisz o swoim problemie albo sugestii.\nDziękujemy!\n_____</string>
+    <string name="a_about_version">Wersja</string>
+</resources>
