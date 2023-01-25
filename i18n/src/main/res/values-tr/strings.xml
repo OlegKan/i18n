@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- actions -->
+    <string name="action_add">Ekle</string>
+    <string name="action_delete">Sil</string>
+    <string name="action_directions">Yol tarifi</string>
+    <string name="action_edit">Düzenle</string>
+    <string name="action_info">Bilgi</string>
+    <string name="action_refresh">Yenile</string>
+    <string name="action_restart">Yeniden başlat</string>
+    <string name="action_retry">Tekrar dene</string>
+    <string name="action_save">Kaydet</string>
+    <string name="action_search">Ara</string>
+    <string name="action_sort">Sırala</string>
+
+    <string name="notification_channel_description">Bildirimler</string>
+    <string name="update_downloaded">Bir güncelleme indirildi</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">Beta Testi</string>
+    <string name="action_support">Destek</string>
+    <string name="action_translate">Çevir</string>
+    <string name="beta_program_cta">Katılın</string>
+    <string name="beta_program_description">Eğer deneysel özellikleri yayınlanmadan önce denemek isterseniz beta sürümü programına katılabilirsiniz.</string>
+    <string name="thanks_to_translators">Çevirmenlere teşekkürler:</string>
+    <string name="translate_to_your_language_cta">Geliştiriciyle iletişime geçin</string>
+    <string name="translate_to_your_language_description">Uygulamayı dilinize çevirmek için yardımda bulunabilirsiniz</string>
+
+    <!-- in-app purchases -->
+    <string name="settings_category_in_app_purchases">Uygulama İçi Satın Alım</string>
+    <string name="enjoy_until">Özellik şu tarihe kadar kullanılabilir: %1$s</string>
+    <string name="license_validation_failed">Lisans doğrulanamadı</string>
+    <string name="plus_version_iap_description">Tam sürümü \'ı satın alarak tüm özelliklere erişin</string>
+    <string name="settings_remove_ads">Reklamları kaldırmak</string>
+    <string name="sale_promotion">SATIŞ!</string>
+    <string name="watch_ad">Reklamı İzle</string>
+
+    <!-- errors -->
+    <string name="error_database">Veritabanı hatası</string>
+    <string name="error_http">HTTP hatası</string>
+    <string name="error_invalid_request">Geçersiz istek</string>
+    <string name="error_invalid_response">Geçersiz dönüt</string>
+    <string name="error_location_service_not_available">Servis kullanılamıyor.\nKonum servisini kontrol edin.</string>
+    <string name="error_network_connection">Üzgünüz, servis kullanılamıyor.\nİnternet bağlantınızı kontrol edin</string>
+    <string name="error_over_query_limit">Sorgu limitine ulaşıldı, daha sonra tekrar deneyin</string>
+    <string name="error_remote_server_connection">Sunucu bağlantı hatası</string>
+    <string name="error_request_denied">İstek reddedildi</string>
+    <string name="error_zero_results">Sonuç bulunamadı</string>
+    <string name="error_unknown">Bilinmeyen hata</string>
+
+    <string name="settings">Ayarlar</string>
+    <string name="settings_category_general">Genel ayarlar</string>
+    <string name="time_format_regional">Bölgesel ayarlar</string>
+
+    <string name="language">Dil</string>
+
+    <string name="settings_notifications">Bildirimler</string>
+    <string name="settings_category_notifications">Bildirim ayarları</string>
+    <string name="notification_tone">Bildirim tonu</string>
+    <string name="settings_notifications_sound">Ses</string>
+    <string name="sound_off">Kapalı</string>
+
+    <string name="settings_about">Hakkında</string>
+    <string name="settings_change_log">Değişiklik kütüğü</string>
+    <string name="settings_change_log_summary">Önceki sürümlerdeki değişikliklerin listesi</string>
+    <string name="help">Yardım ve SSS</string>
+    <string name="settings_category_information">Bilgi</string>
+    <string name="settings_more_from_developer">Geliştiriciden daha fazlası</string>
+    <string name="settings_open_source_licenses">Açık kaynak lisansları</string>
+    <string name="settings_privacy_policy">Gizlilik Politikası</string>
+    <string name="settings_rate_this_app">Uygulamaya puan ver</string>
+    <string name="settings_send_feedback">Geri bildirim gönder</string>
+    <string name="settings_share">Arkadaşlarınızla paylaşın</string>
+    <string name="settings_support_this_project">Bu projeyi destekle</string>
+
+    <string name="settings_theme">Tema</string>
+    <string name="theme_system_default">Sistem varsayılanı</string>
+    <string name="theme_light">Açık</string>
+    <string name="theme_dark">Koyu</string>
+
+    <!-- app rater -->
+    <string name="ar_dialog_rate_title">Uygulamaya puan ver</string>
+    <string name="ar_dialog_rate_message">Uygulamamızı beğendiyseniz, biraz vaktinizi ayırıp puan vermek ister misiniz? Bir dakikadan fazla sürmez.\n\nDesteğiniz için teşekkür ederiz!</string>
+    <string name="ar_dialog_rate_positive_button_rate">Puan Ver</string>
+    <string name="ar_dialog_rate_negative_button">Sonra</string>
+    <string name="ar_dialog_rate_neutral_button">Hayır, Teşekkürler</string>
+    <string name="ar_unable_to_find_google_play">Google Play uygulaması bulunamadı</string>
+
+    <!-- about -->
+    <string name="a_feedback_message">Sorununuzu veya tavsiyenizi açıklayın.\Teşekkürler!\n_____</string>
+    <string name="a_about_version">Versiyon</string>
+</resources>
