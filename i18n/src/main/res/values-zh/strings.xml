@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- actions -->
+    <string name="action_add">添加</string>
+    <string name="action_delete">删除</string>
+    <string name="action_directions">路线</string>
+    <string name="action_edit">编辑</string>
+    <string name="action_info">信息</string>
+    <string name="action_refresh">刷新</string>
+    <string name="action_restart">重启</string>
+    <string name="action_retry">重试</string>
+    <string name="action_save">保存</string>
+    <string name="action_search">搜索</string>
+    <string name="action_sort">排序</string>
+
+    <string name="notification_channel_description">提醒</string>
+    <string name="update_downloaded">已下载更新</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">Beta Testing</string>
+    <string name="action_support">支持</string>
+    <string name="action_translate">Translate</string>
+    <string name="beta_program_cta">加入</string>
+    <string name="beta_program_description">加入 Beta 公共预览版计划，提前访问新功能。 </string>
+    <string name="thanks_to_translators">Thanks to translators:</string>
+    <string name="translate_to_your_language_cta">Contact developer</string>
+    <string name="translate_to_your_language_description">You can help to translate this app to your language</string>
+
+    <!-- in-app purchases -->
+    <string name="settings_category_in_app_purchases">App 内购买项目</string>
+    <string name="enjoy_until">该功能在以下日期之前可用：%1$s</string>
+    <string name="license_validation_failed">许可证验证失败</string>
+    <string name="plus_version_iap_description">购买完整版即可使用所有功能</string>
+    <string name="settings_remove_ads">移除广告</string>
+    <string name="sale_promotion">促销！</string>
+    <string name="watch_ad">观看广告</string>
+
+    <!-- errors -->
+    <string name="error_database">数据库错误</string>
+    <string name="error_http">网络错误</string>
+    <string name="error_invalid_request">无效请求</string>
+    <string name="error_invalid_response">无效响应</string>
+    <string name="error_location_service_not_available">服务未开启。\n请检查定位服务。</string>
+    <string name="error_network_connection">请检查网络是否已连接。</string>
+    <string name="error_over_query_limit">请稍后再试。</string>
+    <string name="error_remote_server_connection">服务器连接错误</string>
+    <string name="error_request_denied">拒绝请求</string>
+    <string name="error_zero_results">未找到结果</string>
+    <string name="error_unknown">未知错误</string>
+
+    <string name="settings">设置</string>
+    <string name="settings_category_general">常规设置</string>
+    <string name="time_format_regional">不改动</string>
+
+    <string name="language">语言</string>
+
+    <string name="settings_notifications">通知</string>
+    <string name="settings_category_notifications">通知设置</string>
+    <string name="notification_tone">提示音</string>
+    <string name="settings_notifications_sound">铃声</string>
+    <string name="sound_off">关闭</string>
+
+    <string name="settings_about">应用信息</string>
+    <string name="settings_change_log">改动日志</string>
+    <string name="settings_change_log_summary">查看相对于以前版本的改动</string>
+    <string name="help">帮助和常见问题解答</string>
+    <string name="settings_category_information">信息</string>
+    <string name="settings_more_from_developer">了解更多</string>
+    <string name="settings_open_source_licenses">开源授权</string>
+    <string name="settings_privacy_policy">隐私政策</string>
+    <string name="settings_rate_this_app">给我打分</string>
+    <string name="settings_send_feedback">发送反馈</string>
+    <string name="settings_share">分享给朋友</string>
+    <string name="settings_support_this_project">提供支持</string>
+
+    <string name="settings_theme">主题背景</string>
+    <string name="theme_system_default">系统默认设置</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_dark">深色</string>
+
+    <!-- app rater -->
+    <string name="ar_dialog_rate_title">给我打分</string>
+    <string name="ar_dialog_rate_message">如果你喜欢我们的软件，请花一点点时间给我们打分吧\n\n感谢你的支持！</string>
+    <string name="ar_dialog_rate_positive_button_rate">现在评价</string>
+    <string name="ar_dialog_rate_negative_button">稍后</string>
+    <string name="ar_dialog_rate_neutral_button">不用了</string>
+    <string name="ar_unable_to_find_google_play">未安装 Google Play 商店</string>
+
+    <!-- about -->
+    <string name="a_feedback_message">请写下你的问题或建议，谢谢！\n_____</string>
+    <string name="a_about_version">版本</string>
+</resources>
