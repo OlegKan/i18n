@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- actions -->
+    <string name="action_add">Додати</string>
+    <string name="action_delete">Вилучити</string>
+    <string name="action_directions">Покроково</string>
+    <string name="action_edit">Редагувати</string>
+    <string name="action_info">Інфо</string>
+    <string name="action_refresh">Оновити</string>
+    <string name="action_restart">Перезапустити</string>
+    <string name="action_retry">Повторити</string>
+    <string name="action_save">Зберегти</string>
+    <string name="action_search">Пошук</string>
+    <string name="action_sort">Сортувати</string>
+
+    <string name="notification_channel_description">Сповіщення</string>
+    <string name="update_downloaded">Оновлення було завантажено</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">Beta Testing</string>
+    <string name="action_support">Підтримка</string>
+    <string name="action_translate">Translate</string>
+    <string name="beta_program_cta">Приєднатися</string>
+    <string name="beta_program_description">Приєднуйтеся Beta програми попереднього перегляду, щоб отримати ранній доступ до нових функцій.</string>
+    <string name="thanks_to_translators">Подяка перекладачам:</string>
+    <string name="translate_to_your_language_cta">Зв\'яжіться з розробником</string>
+    <string name="translate_to_your_language_description">Ви можете допомогти перекласти цю програму своєю мовою</string>
+
+    <!-- in-app purchases -->
+    <string name="settings_category_in_app_purchases">Покупки в програмi</string>
+    <string name="enjoy_until">Функція доступна до %1$s</string>
+    <string name="license_validation_failed">Помилка перевірки ліцензії</string>
+    <string name="plus_version_iap_description">Отримайте доступ до всіх функцій, придбавши повну версію</string>
+    <string name="settings_remove_ads">Видалити рекламу</string>
+    <string name="sale_promotion">РОЗПРОДАЖ!</string>
+    <string name="watch_ad">Переглянути рекламу</string>
+
+    <!-- errors -->
+    <string name="error_database">Помилка бази даних</string>
+    <string name="error_http">Помилка HTTP</string>
+    <string name="error_invalid_request">Неправильний запит</string>
+    <string name="error_invalid_response">Неправильна відповідь</string>
+    <string name="error_location_service_not_available">Сервіс недоступний.\nПеревірте службу локації.</string>
+    <string name="error_network_connection">На жаль, ця послуга недоступна.\nПеревірте інтернет-з\'єднання.</string>
+    <string name="error_over_query_limit">Ліміт запитів досягнуто, спробуйте ще раз пізніше</string>
+    <string name="error_remote_server_connection">Помилка з\'єднання із сервером</string>
+    <string name="error_request_denied">Запит відхилено</string>
+    <string name="error_zero_results">Нічого не знайдено</string>
+    <string name="error_unknown">Невідома помилка</string>
+
+    <string name="settings">Налаштування</string>
+    <string name="settings_category_general">Загальні налаштування</string>
+    <string name="time_format_regional">Місцеві налаштування</string>
+
+    <string name="language">Мова</string>
+
+    <string name="settings_notifications">Сповіщення</string>
+    <string name="settings_category_notifications">Налаштування сповіщень</string>
+    <string name="notification_tone">Сиґнал сповіщення</string>
+    <string name="settings_notifications_sound">Звук</string>
+    <string name="sound_off">Вимкнено</string>
+
+    <string name="settings_about">Про</string>
+    <string name="settings_change_log">Журнал змін</string>
+    <string name="settings_change_log_summary">Перелік змін, внесених до попередніх оновлень</string>
+    <string name="help">Довідка та FAQ</string>
+    <string name="settings_category_information">Інфо</string>
+    <string name="settings_more_from_developer">Більше від розробника</string>
+    <string name="settings_open_source_licenses">Ліцензії з відкритим кодом</string>
+    <string name="settings_privacy_policy">Політика конфіденційності</string>
+    <string name="settings_rate_this_app">Оцінити програму</string>
+    <string name="settings_send_feedback">Надіслати відозву</string>
+    <string name="settings_share">Поділитися з друзями</string>
+    <string name="settings_support_this_project">Підтримати проєкт</string>
+
+    <string name="settings_theme">Режим</string>
+    <string name="theme_system_default">За умовчанням</string>
+    <string name="theme_light">Денний</string>
+    <string name="theme_dark">Нічний</string>
+
+    <!-- app rater -->
+    <string name="ar_dialog_rate_title">Оцінити програму</string>
+    <string name="ar_dialog_rate_message">Якщо вам подобається користуватися нашим застосунком, ви могли б виділити хвильку, аби його оцінити? Це не займе багацько часу.\n\nДякуємо за вашу підтримку!</string>
+    <string name="ar_dialog_rate_positive_button_rate">Оцінити застосунок</string>
+    <string name="ar_dialog_rate_negative_button">Пізніше</string>
+    <string name="ar_dialog_rate_neutral_button">Ні, дякую</string>
+    <string name="ar_unable_to_find_google_play">Не вдається знайти застосунок Google Play Маркет</string>
+
+    <!-- about -->
+    <string name="a_feedback_message">Напишіть про вашу проблему або пропозицію.\nДякуємо!\n_____</string>
+    <string name="a_about_version">Версія</string>
+</resources>
