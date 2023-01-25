@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- actions -->
+    <string name="action_add">Добавить</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_directions">Маршрут</string>
+    <string name="action_edit">Изменить</string>
+    <string name="action_info">Справка</string>
+    <string name="action_refresh">Обновить</string>
+    <string name="action_restart">Перезапустить</string>
+    <string name="action_retry">Повторить</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_search">Поиск</string>
+    <string name="action_sort">Упорядочить</string>
+
+    <string name="notification_channel_description">Уведомления</string>
+    <string name="update_downloaded">Обновление было загружено</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">Бета тестирование</string>
+    <string name="action_support">Поддержка</string>
+    <string name="action_translate">Перевод</string>
+    <string name="beta_program_cta">Присоединится</string>
+    <string name="beta_program_description">Присоединяйтесь к Beta программе, чтобы получить ранний доступ к новым функциям.</string>
+    <string name="thanks_to_translators">Спасибо переводчикам:</string>
+    <string name="translate_to_your_language_cta">Связаться с разработчиком</string>
+    <string name="translate_to_your_language_description">Вы можете помочь перевести приложение на ваш язык</string>
+
+    <!-- in-app purchases -->
+    <string name="settings_category_in_app_purchases">Встроенные покупки</string>
+    <string name="enjoy_until">Функция доступна до: %1$s</string>
+    <string name="license_validation_failed">Проверка лицензии не удалась</string>
+    <string name="plus_version_iap_description">Получите доступ ко всем функциям, купив Золотой Час+</string>
+    <string name="settings_remove_ads">Отлючить рекламу</string>
+    <string name="sale_promotion">РАСПРОДАЖА!</string>
+    <string name="watch_ad">Посмотреть рекламу</string>
+
+    <!-- errors -->
+    <string name="error_database">Ошибка базы данных</string>
+    <string name="error_http">Ошибка HTTP</string>
+    <string name="error_invalid_request">Неверный запрос</string>
+    <string name="error_invalid_response">Неверный ответ сервера</string>
+    <string name="error_location_service_not_available">Сервис недоступен. Проверьте сервис определения местоположения.</string>
+    <string name="error_network_connection">Сервис недоступен.\nПроверьте подключение к интернету.</string>
+    <string name="error_over_query_limit">Превышена квота запросов на сервер, попробуйте позже</string>
+    <string name="error_remote_server_connection">Ошибка подключения к серверу</string>
+    <string name="error_request_denied">Запрос отклонен</string>
+    <string name="error_zero_results">По вашему запросу ничего не найдено</string>
+    <string name="error_unknown">Неизвестная ошибка</string>
+
+    <string name="settings">Настройки</string>
+    <string name="settings_category_general">Общие настройки</string>
+    <string name="time_format_regional">Региональные установки</string>
+
+    <string name="language">Язык</string>
+
+    <string name="settings_notifications">Уведомления</string>
+    <string name="settings_category_notifications">Настройки уведомлений</string>
+    <string name="notification_tone">Звук уведомления</string>
+    <string name="settings_notifications_sound">Звук</string>
+    <string name="sound_off">Выкл.</string>
+
+    <string name="settings_about">О программе</string>
+    <string name="settings_change_log">Список изменений</string>
+    <string name="settings_change_log_summary">Описание изменений включенных в предыдущие обновления</string>
+    <string name="help">Помощь и часто задаваемые вопросы</string>
+    <string name="settings_category_information">Информация</string>
+    <string name="settings_more_from_developer">Другие приложения разработчика</string>
+    <string name="settings_open_source_licenses">Лицензии открытого ПО</string>
+    <string name="settings_privacy_policy">Политика конфиденциальности</string>
+    <string name="settings_rate_this_app">Оценить приложение</string>
+    <string name="settings_send_feedback">Отправить отзыв</string>
+    <string name="settings_share">Поделитесь с друзьями</string>
+    <string name="settings_support_this_project">Поддержите этот проект</string>
+
+    <string name="settings_theme">Тема</string>
+    <string name="theme_system_default">Как в системе</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Темная</string>
+
+    <!-- app rater -->
+    <string name="ar_dialog_rate_title">Оценить приложение</string>
+    <string name="ar_dialog_rate_message">Если вам понравилось приложение, разработчики будут признательны узнать ваше мнение!\n\nСпасибо за вашу поддержку!</string>
+    <string name="ar_dialog_rate_positive_button_rate">Оценить</string>
+    <string name="ar_dialog_rate_negative_button">Позже</string>
+    <string name="ar_dialog_rate_neutral_button">Нет, Спасибо</string>
+    <string name="ar_unable_to_find_google_play">Приложение Google Play Store не найдено</string>
+
+    <!-- about -->
+    <string name="a_feedback_message">Напишите разработчику о проблеме или предложении.\nСпасибо!\n_____</string>
+    <string name="a_about_version">Версия</string>
+</resources>
