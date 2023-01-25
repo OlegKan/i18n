@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- actions -->
+    <string name="action_add">הוספה</string>
+    <string name="action_delete">מחק</string>
+    <string name="action_directions">מסלול</string>
+    <string name="action_edit">ערוך</string>
+    <string name="action_info">מידע</string>
+    <string name="action_refresh">rרענן</string>
+    <string name="action_restart">הפעלה מחדש</string>
+    <string name="action_retry">ניסיון נוסף</string>
+    <string name="action_save">שמור</string>
+    <string name="action_search">חיפוש</string>
+    <string name="action_sort">מיון</string>
+
+    <string name="notification_channel_description">הודעות</string>
+    <string name="update_downloaded">הורד עדכון</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">בדיקות בטא</string>
+    <string name="action_support">תמוך</string>
+    <string name="action_translate">תרגם</string>
+    <string name="beta_program_cta">הצטרף</string>
+    <string name="beta_program_description">הצטרף Beta הציבורית כדי לקבל גישה מוקדמת לתכונות חדשות.</string>
+    <string name="thanks_to_translators">תודה למתרגמים:</string>
+    <string name="translate_to_your_language_cta">פנה למפתח למידע נוסף</string>
+    <string name="translate_to_your_language_description">אתה יכול לתרגם את האפליקציה הזו לשפה שלך</string>
+
+    <!-- in-app purchases -->
+    <string name="settings_category_in_app_purchases">רכישות בתוך היישום</string>
+    <string name="enjoy_until">התכונה זמינה עד: %1$s</string>
+    <string name="license_validation_failed">אימות הרישיון נכשל</string>
+    <string name="plus_version_iap_description">קבל גישה לכל התכונות על ידי רכישת גרסה מלאה</string>
+    <string name="settings_remove_ads">הסר פרסומות</string>
+    <string name="sale_promotion">מְכִירָה!</string>
+    <string name="watch_ad">צפה במודעה</string>
+
+    <!-- errors -->
+    <string name="error_database">תקלה במסד הנתונים</string>
+    <string name="error_http">תקלת HTTP</string>
+    <string name="error_invalid_request">בקשה שגויה</string>
+    <string name="error_invalid_response">תגובה שגויה</string>
+    <string name="error_location_service_not_available">השירות לא זמין.\nבדוק שירותי מיקום.</string>
+    <string name="error_network_connection">סליחה, השירות אינו זמין.\nבדוק חיבור לאינטרנט.</string>
+    <string name="error_over_query_limit">מגבלת המידע הושגה, אנא נסה שנית מאוחר יותר</string>
+    <string name="error_remote_server_connection">בעיית חיבור לשרת</string>
+    <string name="error_request_denied">הבקשה נדחתה</string>
+    <string name="error_zero_results">לא נמצאו תוצאות</string>
+    <string name="error_unknown">בעיה לא ידועה</string>
+
+    <string name="settings">הגדרות</string>
+    <string name="settings_category_general">הגדרות כלליות</string>
+    <string name="time_format_regional">הגדרות מקומיות</string>
+
+    <string name="language">שפה</string>
+
+    <string name="settings_notifications">התראות</string>
+    <string name="settings_category_notifications">הגדרות ההודעות</string>
+    <string name="notification_tone">צליל הודעה</string>
+    <string name="settings_notifications_sound">צליל</string>
+    <string name="sound_off">כבוי</string>
+
+    <string name="settings_about">מידע על</string>
+    <string name="settings_change_log">שנה רישום</string>
+    <string name="settings_change_log_summary">רשימת השינויים בעדכונים קודמים</string>
+    <string name="help">עזרה ושאלות נפוצות</string>
+    <string name="settings_category_information">מידע</string>
+    <string name="settings_more_from_developer">עוד מהמפתח</string>
+    <string name="settings_open_source_licenses">רשיונות קוד פתוח</string>
+    <string name="settings_privacy_policy">מדיניות פרטיות</string>
+    <string name="settings_rate_this_app">דרג את האפליקצייה</string>
+    <string name="settings_send_feedback">שלח חוות דעת</string>
+    <string name="settings_share">שתף עם חברים</string>
+    <string name="settings_support_this_project">תמוך בפרויקט</string>
+
+    <string name="settings_theme">עיצוב</string>
+    <string name="theme_system_default">ברירת מחדל של המערכת</string>
+    <string name="theme_light">בהיר</string>
+    <string name="theme_dark">כהה</string>
+
+    <!-- app rater -->
+    <string name="ar_dialog_rate_title">דרג אפליקצייה</string>
+    <string name="ar_dialog_rate_message">אם נהנית להשתמש באפליקציה, אולי תיקח לך רגע לדרג אותה? זה לא יקח יותר מדקה.\n\nתודה על התמיכה!</string>
+    <string name="ar_dialog_rate_positive_button_rate">דרג אפליקצייה</string>
+    <string name="ar_dialog_rate_negative_button">אחר כך</string>
+    <string name="ar_dialog_rate_neutral_button">לא, תודה</string>
+    <string name="ar_unable_to_find_google_play">לא ניתן למצוא את חנות האפליקציות</string>
+
+    <!-- about -->
+    <string name="a_feedback_message">כתוב על הבעיה או ההצעה שלך.\nתודה!\n_____</string>
+    <string name="a_about_version">גרסה</string>
+</resources>
