@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- actions -->
+    <string name="action_add">Toevoegen</string>
+    <string name="action_delete">Verwijderen</string>
+    <string name="action_directions">Route</string>
+    <string name="action_edit">Bewerken</string>
+    <string name="action_info">Info</string>
+    <string name="action_refresh">Verversen</string>
+    <string name="action_restart">Opnieuw opstarten</string>
+    <string name="action_retry">Opnieuw proberen</string>
+    <string name="action_save">Opslaan</string>
+    <string name="action_search">Zoeken</string>
+    <string name="action_sort">Sorteren</string>
+
+    <string name="notification_channel_description">Notificaties</string>
+    <string name="update_downloaded">Er is een update gedownload</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">Beta Testing</string>
+    <string name="action_support">Ondersteuning</string>
+    <string name="action_translate">Translate</string>
+    <string name="beta_program_cta">Lid worden</string>
+    <string name="beta_program_description">Neem deel Beta-programma om in een vroeg stadium toegang te krijgen tot nieuwe functies.</string>
+    <string name="thanks_to_translators">Dank voor de vertalers:</string>
+    <string name="translate_to_your_language_cta">Neem contact op met de ontwikkelaar</string>
+    <string name="translate_to_your_language_description">Je kan helpen om de app te vertalen in je eigen taal</string>
+
+    <!-- in-app purchases -->
+    <string name="settings_category_in_app_purchases">In-app aankopen</string>
+    <string name="enjoy_until">Functie beschikbaar tot: %1$s</string>
+    <string name="license_validation_failed">Licentie validatie mislukt</string>
+    <string name="plus_version_iap_description">Krijg toegang tot alle functies door de volledige versie te kopen</string>
+    <string name="settings_remove_ads">Advertenties Verwijderen</string>
+    <string name="sale_promotion">UITVERKOOP!</string>
+    <string name="watch_ad">Bekijk advertentie</string>
+
+    <!-- errors -->
+    <string name="error_database">Databasefout</string>
+    <string name="error_http">HTTP fout</string>
+    <string name="error_invalid_request">Ongeldig verzoek</string>
+    <string name="error_invalid_response">Ongeldige reactie</string>
+    <string name="error_location_service_not_available">Gegevens niet beschikbaar.\nControleer locatiegegevensinstellingen.</string>
+    <string name="error_network_connection">Sorry, de gegevens zijn niet beschikbaar.\nControleer je internet verbinding.</string>
+    <string name="error_over_query_limit">Opvraaglimiet bereikt, probeer het later nogmaals</string>
+    <string name="error_remote_server_connection">Server verbindingsfout</string>
+    <string name="error_request_denied">Verzoek afgewezen</string>
+    <string name="error_zero_results">Geen resultaten gevonden</string>
+    <string name="error_unknown">Onbekende fout</string>
+
+    <string name="settings">Instellingen</string>
+    <string name="settings_category_general">Algemene instellingen</string>
+    <string name="time_format_regional">Regionale instellingen</string>
+
+    <string name="language">Taal</string>
+
+    <string name="settings_notifications">Meldingen</string>
+    <string name="settings_category_notifications">Notificatie instellingen</string>
+    <string name="notification_tone">Notificatiegeluid</string>
+    <string name="settings_notifications_sound">Geluid</string>
+    <string name="sound_off">Uit</string>
+
+    <string name="settings_about">Over</string>
+    <string name="settings_change_log">Wijzigingen</string>
+    <string name="settings_change_log_summary">Lijst van wijzigingen van vorige updates</string>
+    <string name="help">Hulp en veelgestelde vragen</string>
+    <string name="settings_category_information">Informatie</string>
+    <string name="settings_more_from_developer">Meer van deze ontwikkelaar</string>
+    <string name="settings_open_source_licenses">Open Source Licentie</string>
+    <string name="settings_privacy_policy">Privacybeleid</string>
+    <string name="settings_rate_this_app">Beoordeel deze app</string>
+    <string name="settings_send_feedback">Verstuur feedback</string>
+    <string name="settings_share">Deel met vrienden</string>
+    <string name="settings_support_this_project">Ondersteun dit project</string>
+
+    <string name="settings_theme">Thema</string>
+    <string name="theme_system_default">Systeemstandaard</string>
+    <string name="theme_light">Licht</string>
+    <string name="theme_dark">Donker</string>
+
+    <!-- app rater -->
+    <string name="ar_dialog_rate_title">Beoordeel applicatie</string>
+    <string name="ar_dialog_rate_message">If you enjoy using our app, would you mind taking a moment to let us know how you feel?\n\nThank you for your support!</string>
+    <string name="ar_dialog_rate_positive_button_rate">Beoordeel app</string>
+    <string name="ar_dialog_rate_negative_button">Later</string>
+    <string name="ar_dialog_rate_neutral_button">Nee, dank je</string>
+    <string name="ar_unable_to_find_google_play">Kan Google Play Store app niet vinden</string>
+
+    <!-- about -->
+    <string name="a_feedback_message">Schrijf over je probleem of suggestie.\nBedankt!\n_____</string>
+    <string name="a_about_version">Versie</string>
+</resources>
