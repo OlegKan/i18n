@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- actions -->
+    <string name="action_add">Додај</string>
+    <string name="action_delete">Избриши</string>
+    <string name="action_directions">Упутства</string>
+    <string name="action_edit">Измени</string>
+    <string name="action_info">Информације</string>
+    <string name="action_refresh">Освежи</string>
+    <string name="action_restart">Рестартуј</string>
+    <string name="action_retry">Понови</string>
+    <string name="action_save">Сачувај</string>
+    <string name="action_search">Пронађи</string>
+    <string name="action_sort">Сортирај</string>
+
+    <string name="notification_channel_description">Обавештења</string>
+    <string name="update_downloaded">Ажурирање је преузето</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">Бета тестирање</string>
+    <string name="action_support">Подржите</string>
+    <string name="action_translate">Превод</string>
+    <string name="beta_program_cta">Придружите</string>
+    <string name="beta_program_description">Придружите се Бета програму за рани приступ новим функцијама.</string>
+    <string name="thanks_to_translators">Захвалност преводиоцима:</string>
+    <string name="translate_to_your_language_cta">Контактирајте програмера</string>
+    <string name="translate_to_your_language_description">Можете помоћи у превођењу ове апликације на ваш језик</string>
+
+    <!-- in-app purchases -->
+    <string name="settings_category_in_app_purchases">Куповине у апликацији</string>
+    <string name="enjoy_until">Функција доступна до: %1$s</string>
+    <string name="license_validation_failed">Провера ваљаности лиценце није успела</string>
+    <string name="plus_version_iap_description">Приступите свим функцијама куповином пуне верзије</string>
+    <string name="settings_remove_ads">Уклоните огласе</string>
+    <string name="sale_promotion">ПРОДАЈА!</string>
+    <string name="watch_ad">Погледајте оглас</string>
+
+    <!-- errors -->
+    <string name="error_database">Грешка у датотеци</string>
+    <string name="error_http">HTTP грешка</string>
+    <string name="error_invalid_request">Неважећи упит</string>
+    <string name="error_invalid_response">Неважећи одговор</string>
+    <string name="error_location_service_not_available">Услуга није доступна.\nПроверите сервис за локацију.</string>
+    <string name="error_network_connection">Жао нам је, услуга није доступна.\nПроверите интернет везу.</string>
+    <string name="error_over_query_limit">Достигнуто је ограничење упита, покушајте поново касније</string>
+    <string name="error_remote_server_connection">Грешка у вези са сервером</string>
+    <string name="error_request_denied">Захтев одбијен</string>
+    <string name="error_zero_results">Нема резултата</string>
+    <string name="error_unknown">Непозната грешка</string>
+
+    <string name="settings">Подешавања</string>
+    <string name="settings_category_general">Главна подешавања</string>
+    <string name="time_format_regional">Регионална подешавања</string>
+
+    <string name="language">Језик</string>
+
+    <string name="settings_notifications">Обавештења</string>
+    <string name="settings_category_notifications">Подешавање обавештења</string>
+    <string name="notification_tone">Звук обавештења</string>
+    <string name="settings_notifications_sound">Звук</string>
+    <string name="sound_off">Искључено</string>
+
+    <string name="settings_about">Основни подаци</string>
+    <string name="settings_change_log">Листа промена</string>
+    <string name="settings_change_log_summary">Листа промена обухваћених претходним ажурирањима</string>
+    <string name="help">Помоћ и често постављана питања</string>
+    <string name="settings_category_information">Информације</string>
+    <string name="settings_more_from_developer">Више од програмера</string>
+    <string name="settings_open_source_licenses">Open Source лиценце</string>
+    <string name="settings_privacy_policy">Правила приватности</string>
+    <string name="settings_rate_this_app">Оцените апликацију</string>
+    <string name="settings_send_feedback">Пошаљите коментар</string>
+    <string name="settings_share">Поделите са пријатељима</string>
+    <string name="settings_support_this_project">Подржите пројекат</string>
+
+    <string name="settings_theme">Тема</string>
+    <string name="theme_system_default">Подразумевано</string>
+    <string name="theme_light">Светла</string>
+    <string name="theme_dark">Тамна</string>
+
+    <!-- app rater -->
+    <string name="ar_dialog_rate_title">Оцените апликацију</string>
+    <string name="ar_dialog_rate_message">Ако уживате у коришћењу ове апликације, да ли бисте искористили тренутак да је оцените? Неће трајати дуже од једног минута. \n\nХвала на подршци!</string>
+    <string name="ar_dialog_rate_positive_button_rate">Оцените</string>
+    <string name="ar_dialog_rate_negative_button">Касније</string>
+    <string name="ar_dialog_rate_neutral_button">Не, хвала</string>
+    <string name="ar_unable_to_find_google_play">Није могуће пронаћи апликацију Google Play Store</string>
+
+    <!-- about -->
+    <string name="a_feedback_message">Напишите свој проблем или дајте предлог.\nХвала!\n_____</string>
+    <string name="a_about_version">Верзија</string>
+</resources>
