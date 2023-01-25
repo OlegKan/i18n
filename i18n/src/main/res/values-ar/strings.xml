@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <!-- actions -->
+    <string name="action_add">إضافة</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_directions">الاتجاهات</string>
+    <string name="action_edit">تحرير</string>
+    <string name="action_info">معلومات</string>
+    <string name="action_refresh">تحديث</string>
+    <string name="action_restart">إعادة تشغيل</string>
+    <string name="action_retry">إعادة المحاولة</string>
+    <string name="action_save">حفظ</string>
+    <string name="action_search">بحث</string>
+    <string name="action_sort">تصنيف</string>
+
+    <string name="notification_channel_description">إشعارات</string>
+    <string name="update_downloaded">تم تنزيل تحديث التطبيق</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">اختبار بيتا</string>
+    <string name="action_support">الدعم</string>
+    <string name="action_translate">ترجمة</string>
+    <string name="beta_program_cta">انضمام</string>
+    <string name="beta_program_description">انضم إلى برنامج بيتا للوصول المبكر إلى الميزات الجديدة.</string>
+    <string name="thanks_to_translators">شكرا للمترجمين:</string>
+    <string name="translate_to_your_language_cta">اتصل بالمطور</string>
+    <string name="translate_to_your_language_description">يمكنك المساعدة في ترجمة هذا التطبيق إلى لغتك</string>
+
+    <!-- in-app purchases -->
+    <string name="settings_category_in_app_purchases">عمليات الشراء داخل التطبيق</string>
+    <string name="enjoy_until">الميزة متاحة حتى: %1$s</string>
+    <string name="license_validation_failed">فشل التحقق من صحة الترخيص</string>
+    <string name="plus_version_iap_description">احصل على الوصول إلى جميع الميزات من خلال شراء النسخة الكاملة</string>
+    <string name="settings_remove_ads">إزالة الإعلانات</string>
+    <string name="sale_promotion">بسعر مخفض!</string>
+    <string name="watch_ad">مشاهدة الإعلان</string>
+
+    <!-- errors -->
+    <string name="error_database">خطأ في قاعدة البيانات</string>
+    <string name="error_http">خطأ HTTP</string>
+    <string name="error_invalid_request">طلب غير صالح</string>
+    <string name="error_invalid_response">استجابة غير صالحة</string>
+    <string name="error_location_service_not_available">الخدمة غير متوفرة.\nتحقق من خدمة الموقع.</string>
+    <string name="error_network_connection">عذراً، الخدمة غير متوفرة.\nتحقق من اتصال الإنترنت.</string>
+    <string name="error_over_query_limit">تم الوصول إلى حد الاستعلام، حاول مرة أخرى لاحقًا</string>
+    <string name="error_remote_server_connection">خطأ في الاتصال بالخادم</string>
+    <string name="error_request_denied">الطلب مرفوض</string>
+    <string name="error_zero_results">لم يتم العثور على نتائج</string>
+    <string name="error_unknown">خطأ غير معروف</string>
+
+    <string name="settings">الإعدادات</string>
+    <string name="settings_category_general">الإعدادات العامة</string>
+    <string name="time_format_regional">الإعدادات الإقليمية</string>
+
+    <string name="language">لغة</string>
+
+    <string name="settings_notifications">إشعارات</string>
+    <string name="settings_category_notifications">إعدادات الإشعارات</string>
+    <string name="notification_tone">نغمة الإشعارات</string>
+    <string name="settings_notifications_sound">الصوت</string>
+    <string name="sound_off">إيقاف</string>
+
+    <string name="settings_about">عن</string>
+    <string name="settings_change_log">سجل التغيير</string>
+    <string name="settings_change_log_summary">قائمة التغييرات المدرجة في التحديثات السابقة</string>
+    <string name="help">المساعدة والأسئلة الشائعة</string>
+    <string name="settings_category_information">معلومة</string>
+    <string name="settings_more_from_developer">المزيد من المطور</string>
+    <string name="settings_open_source_licenses">تراخيص مفتوحة المصدر</string>
+    <string name="settings_privacy_policy">سياسة الخصوصية</string>
+    <string name="settings_rate_this_app">قيّم هذا التطبيق</string>
+    <string name="settings_send_feedback">أرسل رأيك</string>
+    <string name="settings_share">شارك هذا التطبيق</string>
+    <string name="settings_support_this_project">ادعم هذا المشروع</string>
+
+    <string name="settings_theme">الموضوع</string>
+    <string name="theme_system_default">النظام الافتراضي</string>
+    <string name="theme_light">فاتح</string>
+    <string name="theme_dark">داكن</string>
+
+    <!-- app rater -->
+    <string name="ar_dialog_rate_title">قيّم التطبيق</string>
+    <string name="ar_dialog_rate_message">إذا كنت تستمتع باستخدام تطبيقنا، فهل تمانع في قضاء بعض الوقت لإبلاغنا بشعورك تجاهه؟\n\nشكراً لدعمكم!</string>
+    <string name="ar_dialog_rate_positive_button_rate">قيّم التطبيق</string>
+    <string name="ar_dialog_rate_negative_button">لاحقاً</string>
+    <string name="ar_dialog_rate_neutral_button">لا، شكراً</string>
+    <string name="ar_unable_to_find_google_play">تعذر العثور على تطبيق متجر Google Play</string>
+
+    <!-- about -->
+    <string name="a_feedback_message">اكتب عن مشكلتك أو اقتراحك.\nشكرًا لك!\n_____</string>
+    <string name="a_about_version">الإصدار</string>
+</resources>
