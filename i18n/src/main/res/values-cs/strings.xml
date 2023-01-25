@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- actions -->
+    <string name="action_add">Přidat</string>
+    <string name="action_delete">Smazat</string>
+    <string name="action_directions">Trasa</string>
+    <string name="action_edit">Upravit</string>
+    <string name="action_info">Info</string>
+    <string name="action_refresh">Obnovit</string>
+    <string name="action_restart">Restartovat</string>
+    <string name="action_retry">Zkusit znovu</string>
+    <string name="action_save">Uložit</string>
+    <string name="action_search">Vyhledávání</string>
+    <string name="action_sort">Seřadit</string>
+
+    <string name="notification_channel_description">Notifikace</string>
+    <string name="update_downloaded">Aktualizace byla stažena</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">Beta Testování</string>
+    <string name="action_support">Podpora</string>
+    <string name="action_translate">Překlad</string>
+    <string name="beta_program_cta">Připojit se</string>
+    <string name="beta_program_description">Připojte se programu Beta a získejte brzké přístup k novým funkcím.</string>
+    <string name="thanks_to_translators">Poděkování s překladem:</string>
+    <string name="translate_to_your_language_cta">Kontakt na vydavatele</string>
+    <string name="translate_to_your_language_description">Pomožte přeložit aplikaci do více jazyků</string>
+
+    <!-- in-app purchases -->
+    <string name="settings_category_in_app_purchases">Nákupy v aplikacích</string>
+    <string name="enjoy_until">Funkce dostupná do: %1$s</string>
+    <string name="license_validation_failed">Ověření licence se nezdařilo</string>
+    <string name="plus_version_iap_description">Získejte přístup ke všem funkcím zakoupením plné verze</string>
+    <string name="settings_remove_ads">Odstranit reklamy</string>
+    <string name="sale_promotion">PRODEJ!</string>
+    <string name="watch_ad">Sledovat reklamu</string>
+
+    <!-- errors -->
+    <string name="error_database">Chyba databáze</string>
+    <string name="error_http">Chyba HTTP</string>
+    <string name="error_invalid_request">Neplatná žádost</string>
+    <string name="error_invalid_response">Neplatná odpověď</string>
+    <string name="error_location_service_not_available">Služba není k dispozici.\nZkontrolujte službu určování polohy.</string>
+    <string name="error_network_connection">Omlouváme se, ale služba není k dispozici.\nZkontorlujte připojení k internetu.</string>
+    <string name="error_over_query_limit">Dosáhli jste limit dotazů, porsím opakujte později</string>
+    <string name="error_remote_server_connection">Chyba připojení k serveru</string>
+    <string name="error_request_denied">Žádost zamítnuta</string>
+    <string name="error_zero_results">Žádné výsledky</string>
+    <string name="error_unknown">Neznámá chyba</string>
+
+    <string name="settings">Nastavení</string>
+    <string name="settings_category_general">Obecná nastavení</string>
+    <string name="time_format_regional">Místní nastavení</string>
+
+    <string name="language">Jazyk</string>
+
+    <string name="settings_notifications">Oznámení</string>
+    <string name="settings_category_notifications">Nastavení notifikací</string>
+    <string name="notification_tone">Zvuk notifikací</string>
+    <string name="settings_notifications_sound">Zvuky</string>
+    <string name="sound_off">Vypnuto</string>
+
+    <string name="settings_about">O aplikaci</string>
+    <string name="settings_change_log">Změny v aplikaci</string>
+    <string name="settings_change_log_summary">Seznam změn v předchozích verzích</string>
+    <string name="help">Nápověda a časté dotazy</string>
+    <string name="settings_category_information">Informace</string>
+    <string name="settings_more_from_developer">Více od vydavatele</string>
+    <string name="settings_open_source_licenses">Licence Open Source</string>
+    <string name="settings_privacy_policy">Zásady ochrany osobních údajů</string>
+    <string name="settings_rate_this_app">Ohodnoťte aplikaci</string>
+    <string name="settings_send_feedback">Pošlete nám zpětnou vazbu</string>
+    <string name="settings_share">Sdílejte s přáteli</string>
+    <string name="settings_support_this_project">Podpořte projekt</string>
+
+    <string name="settings_theme">Motiv</string>
+    <string name="theme_system_default">Výchozí nastavení</string>
+    <string name="theme_light">Světlý</string>
+    <string name="theme_dark">Tmavý</string>
+
+    <!-- app rater -->
+    <string name="ar_dialog_rate_title">Ohodňotte aplikaci</string>
+    <string name="ar_dialog_rate_message">Pokud se Vám naše aplikace líbí, mohli byste ji ohodnotit? Nezabere to více jak minutu.\n\nDěkuji za Vaši podporu!</string>
+    <string name="ar_dialog_rate_positive_button_rate">Ohodňotte aplikaci</string>
+    <string name="ar_dialog_rate_negative_button">Později</string>
+    <string name="ar_dialog_rate_neutral_button">Ne, děkuji</string>
+    <string name="ar_unable_to_find_google_play">Nelze najít aplikaci Obchod Google Play</string>
+
+    <!-- about -->
+    <string name="a_feedback_message">Napište o svém problému nebo návrhu. \nDěkuji!\n_____</string>
+    <string name="a_about_version">Verze</string>
+</resources>
