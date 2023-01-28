@@ -15,7 +15,7 @@
     <string name="action_sort">Упорядочить</string>
 
     <string name="notification_channel_description">Уведомления</string>
-    <string name="update_downloaded">Обновление было загружено</string>
+    <string name="update_downloaded">Обновление загружено</string>
 
     <!-- support this project -->
     <string name="action_beta_testing">Бета тестирование</string>
