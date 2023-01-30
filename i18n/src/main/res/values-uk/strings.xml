@@ -66,6 +66,7 @@
     <string name="settings_change_log_summary">Перелік змін, внесених до попередніх оновлень</string>
     <string name="help">Довідка та FAQ</string>
     <string name="settings_category_information">Інфо</string>
+    <string name="settings_category_localization">Локація</string>
     <string name="settings_more_from_developer">Більше від розробника</string>
     <string name="settings_open_source_licenses">Ліцензії з відкритим кодом</string>
     <string name="settings_privacy_policy">Політика конфіденційності</string>

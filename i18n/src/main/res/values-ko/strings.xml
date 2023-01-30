@@ -66,6 +66,7 @@
     <string name="settings_change_log_summary">이전 업데이트에 포함된 변경 사항 목록</string>
     <string name="help">도움말 및 FAQ</string>
     <string name="settings_category_information">정보</string>
+    <string name="settings_category_localization">로컬라이제이션</string>
     <string name="settings_more_from_developer">개발자로부터 더 보기</string>
     <string name="settings_open_source_licenses">오픈 소스 라이선스</string>
     <string name="settings_privacy_policy">개인 정보 정책</string>

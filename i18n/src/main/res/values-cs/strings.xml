@@ -66,6 +66,7 @@
     <string name="settings_change_log_summary">Seznam změn v předchozích verzích</string>
     <string name="help">Nápověda a časté dotazy</string>
     <string name="settings_category_information">Informace</string>
+    <string name="settings_category_localization">Lokalizace</string>
     <string name="settings_more_from_developer">Více od vydavatele</string>
     <string name="settings_open_source_licenses">Licence Open Source</string>
     <string name="settings_privacy_policy">Zásady ochrany osobních údajů</string>

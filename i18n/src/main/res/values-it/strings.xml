@@ -66,6 +66,7 @@
     <string name="settings_change_log_summary">Lista dei cambi inclusi negli aggiornamenti precedenti</string>
     <string name="help">Guida e domande frequenti</string>
     <string name="settings_category_information">Informazioni</string>
+    <string name="settings_category_localization">Localizzazione</string>
     <string name="settings_more_from_developer">Altro dallo sviluppatore</string>
     <string name="settings_open_source_licenses">Licenze Open Source</string>
     <string name="settings_privacy_policy">Politica sulla riservatezza</string>

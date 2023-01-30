@@ -66,6 +66,7 @@
     <string name="settings_change_log_summary">قائمة التغييرات المدرجة في التحديثات السابقة</string>
     <string name="help">المساعدة والأسئلة الشائعة</string>
     <string name="settings_category_information">معلومة</string>
+    <string name="settings_category_localization">إضفاء الطابع المحلي</string>
     <string name="settings_more_from_developer">المزيد من المطور</string>
     <string name="settings_open_source_licenses">تراخيص مفتوحة المصدر</string>
     <string name="settings_privacy_policy">سياسة الخصوصية</string>

@@ -66,6 +66,7 @@
     <string name="settings_change_log_summary">Листа промена обухваћених претходним ажурирањима</string>
     <string name="help">Помоћ и често постављана питања</string>
     <string name="settings_category_information">Информације</string>
+    <string name="settings_category_localization">Локализација</string>
     <string name="settings_more_from_developer">Више од програмера</string>
     <string name="settings_open_source_licenses">Open Source лиценце</string>
     <string name="settings_privacy_policy">Правила приватности</string>

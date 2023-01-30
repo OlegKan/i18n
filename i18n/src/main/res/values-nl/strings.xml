@@ -66,6 +66,7 @@
     <string name="settings_change_log_summary">Lijst van wijzigingen van vorige updates</string>
     <string name="help">Hulp en veelgestelde vragen</string>
     <string name="settings_category_information">Informatie</string>
+    <string name="settings_category_localization">Lokale instellingen</string>
     <string name="settings_more_from_developer">Meer van deze ontwikkelaar</string>
     <string name="settings_open_source_licenses">Open Source Licentie</string>
     <string name="settings_privacy_policy">Privacybeleid</string>

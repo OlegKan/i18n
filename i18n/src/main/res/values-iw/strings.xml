@@ -66,6 +66,7 @@
     <string name="settings_change_log_summary">רשימת השינויים בעדכונים קודמים</string>
     <string name="help">עזרה ושאלות נפוצות</string>
     <string name="settings_category_information">מידע</string>
+    <string name="settings_category_localization">מיקום</string>
     <string name="settings_more_from_developer">עוד מהמפתח</string>
     <string name="settings_open_source_licenses">רשיונות קוד פתוח</string>
     <string name="settings_privacy_policy">מדיניות פרטיות</string>

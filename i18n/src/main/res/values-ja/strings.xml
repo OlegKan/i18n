@@ -66,6 +66,7 @@
     <string name="settings_change_log_summary">以前の更新に含まれる変更のリスト</string>
     <string name="help">ヘルプとよくある質問</string>
     <string name="settings_category_information">情報</string>
+    <string name="settings_category_localization">ローカリゼーション</string>
     <string name="settings_more_from_developer">開発者からの詳細</string>
     <string name="settings_open_source_licenses">オープンソースライセンス</string>
     <string name="settings_privacy_policy">プライバシーポリシー</string>
