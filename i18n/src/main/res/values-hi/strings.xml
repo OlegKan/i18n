@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <!-- actions -->
+    <string name="action_add">जोड़ें</string>
+    <string name="action_delete">मिटाना</string>
+    <string name="action_directions">दिशा-निर्देश</string>
+    <string name="action_edit">संपादन करना</string>
+    <string name="action_info">जानकारी</string>
+    <string name="action_refresh">ताज़ा करें</string>
+    <string name="action_restart">पुनः आरंभ करें</string>
+    <string name="action_retry">पुन: प्रयास करें</string>
+    <string name="action_save">सेव करें</string>
+    <string name="action_search">खोज करें</string>
+    <string name="action_sort">क्रम से लगाना</string>
+
+    <string name="notification_channel_description">सूचनाएं</string>
+    <string name="update_downloaded">एक ऐप अपडेट डाउनलोड किया गया है</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">बीटा परीक्षण</string>
+    <string name="action_support">सहारा</string>
+    <string name="action_translate">अनुवाद करें</string>
+    <string name="beta_program_cta">जोड़ें</string>
+    <string name="beta_program_description">नई सुविधाओं तक शीघ्र पहुंच प्राप्त करने के लिए बीटा कार्यक्रम में शामिल हों.</string>
+    <string name="thanks_to_translators">अनुवादकों को धन्यवाद:</string>
+    <string name="translate_to_your_language_cta">डेवलपर से संपर्क करें</string>
+    <string name="translate_to_your_language_description">आप इस ऐप को अपनी भाषा में अनुवाद करने में मदद कर सकते हैं</string>
+
+    <!-- in-app purchases -->
+    <string name="settings_category_in_app_purchases">इन - ऐप खरीदारी</string>
+    <string name="enjoy_until">सुविधा इस समय तक उपलब्ध है: %1$s</string>
+    <string name="license_validation_failed">लाइसेंस सत्यापन विफल रहा</string>
+    <string name="plus_version_iap_description">गोल्डन आवर+ खरीद कर सभी सुविधाओं तक पहुंच प्राप्त करें</string>
+    <string name="settings_remove_ads">विज्ञापन हटाएँ</string>
+    <string name="sale_promotion">बिक्री पर!</string>
+    <string name="watch_ad">विज्ञापन देखें</string>
+
+    <!-- errors -->
+    <string name="error_database">डाटाबेस त्रुटि</string>
+    <string name="error_http">HTTP त्रुटि</string>
+    <string name="error_invalid_request">अमान्य अनुरोध</string>
+    <string name="error_invalid_response">अवैध प्रतिक्रिया</string>
+    <string name="error_location_service_not_available">सेवा उपलब्ध नहीं है.\nस्थान सेवा की जाँच करें.</string>
+    <string name="error_network_connection">क्षमा करें, सेवा उपलब्ध नहीं है.\nइंटरनेट कनेक्शन की जाँच करें.</string>
+    <string name="error_over_query_limit">क्वेरी की सीमा पूरी हो गई है, बाद में फिर से कोशिश करें</string>
+    <string name="error_remote_server_connection">सर्वर कनेक्शन त्रुटि</string>
+    <string name="error_request_denied">अनुरोध अस्वीकार किया</string>
+    <string name="error_zero_results">कोई परिणाम नहीं मिला</string>
+    <string name="error_unknown">अज्ञात त्रुटि</string>
+
+    <string name="settings">समायोजन</string>
+    <string name="settings_category_general">सामान्य सेटिंग्स</string>
+    <string name="time_format_regional">क्षेत्रीय सेटिंग</string>
+
+    <string name="language">भाषा</string>
+
+    <string name="settings_notifications">सूचनाएं</string>
+    <string name="settings_category_notifications">अधिसूचना सेटिंग्स</string>
+    <string name="notification_tone">अधिसूचना टोन</string>
+    <string name="settings_notifications_sound">ध्वनि</string>
+    <string name="sound_off">बंद</string>
+
+    <string name="settings_about">परिचय</string>
+    <string name="settings_change_log">लॉग बदलें</string>
+    <string name="settings_change_log_summary">पिछले अद्यतनों में शामिल परिवर्तनों की सूची</string>
+    <string name="help">सहायता और अक्सर पूछे जाने वाले प्रश्न</string>
+    <string name="settings_category_information">जानकारी</string>
+    <string name="settings_category_localization">स्थानीयकरण</string>
+    <string name="settings_more_from_developer">डेवलपर की ओर से ज़्यादा</string>
+    <string name="settings_open_source_licenses">ओपन सोर्स लाइसेंस</string>
+    <string name="settings_privacy_policy">गोपनीयता नीति</string>
+    <string name="settings_rate_this_app">इस ऐप्लिकेशन को रेट करें</string>
+    <string name="settings_send_feedback">प्रतिक्रिया भेजें</string>
+    <string name="settings_share">इस एप को शेयर कीजिए</string>
+    <string name="settings_support_this_project">इस परियोजना का समर्थन करें</string>
+
+    <string name="settings_theme">थीम</string>
+    <string name="theme_system_default">सिस्टम डिफ़ॉल्ट</string>
+    <string name="theme_light">हल्का</string>
+    <string name="theme_dark">गहरा</string>
+
+    <!-- app rater -->
+    <string name="ar_dialog_rate_title">एप्लीकेशन को रेट करें</string>
+    <string name="ar_dialog_rate_message">यदि आप हमारे ऐप का उपयोग करना पसंद करते हैं, तो क्या आप हमें यह बताने के लिए कुछ समय देंगे कि आप कैसा महसूस कर रहे हैं?\n\nआपके सहयोग के लिए धन्यवाद!</string>
+    <string name="ar_dialog_rate_positive_button_rate">एप्प को रेट करें</string>
+    <string name="ar_dialog_rate_negative_button">बाद में</string>
+    <string name="ar_dialog_rate_neutral_button">जी नहीं, धन्यवाद</string>
+    <string name="ar_unable_to_find_google_play">Google Play Store ऐप ढूंढने में असमर्थ</string>
+
+    <!-- about -->
+    <string name="a_about_version">संस्करण</string>
+    <string name="a_feedback_message">अपनी समस्या या सुझाव के बारे में लिखें.\nशुक्रिया!\n_____</string>
+</resources>
