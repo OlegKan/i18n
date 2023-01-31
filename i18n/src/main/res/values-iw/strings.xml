@@ -28,11 +28,11 @@
     <string name="translate_to_your_language_description">אתה יכול לתרגם את האפליקציה הזו לשפה שלך</string>
 
     <!-- in-app purchases -->
-    <string name="settings_category_in_app_purchases">רכישות בתוך היישום</string>
+    <string name="in_app_purchases">רכישות בתוך היישום</string>
     <string name="enjoy_until">התכונה זמינה עד: %1$s</string>
     <string name="license_validation_failed">אימות הרישיון נכשל</string>
-    <string name="plus_version_iap_description">קבל גישה לכל התכונות על ידי רכישת גרסה מלאה</string>
-    <string name="settings_remove_ads">הסר פרסומות</string>
+    <string name="full_version_iap_description">קבל גישה לכל התכונות על ידי רכישת גרסה מלאה</string>
+    <string name="remove_ads">הסר פרסומות</string>
     <string name="sale_promotion">מְכִירָה!</string>
     <string name="watch_ad">צפה במודעה</string>
 
@@ -50,45 +50,45 @@
     <string name="error_unknown">בעיה לא ידועה</string>
 
     <string name="settings">הגדרות</string>
-    <string name="settings_category_general">הגדרות כלליות</string>
-    <string name="time_format_regional">הגדרות מקומיות</string>
+    <string name="settings_general">הגדרות כלליות</string>
+    <string name="settings_regional">הגדרות מקומיות</string>
 
     <string name="language">שפה</string>
 
-    <string name="settings_notifications">התראות</string>
-    <string name="settings_category_notifications">הגדרות ההודעות</string>
+    <string name="notification_settings">הגדרות ההודעות</string>
+    <string name="notification_sound">צליל</string>
     <string name="notification_tone">צליל הודעה</string>
-    <string name="settings_notifications_sound">צליל</string>
+    <string name="notifications">התראות</string>
     <string name="sound_off">כבוי</string>
 
-    <string name="settings_about">מידע על</string>
-    <string name="settings_change_log">שנה רישום</string>
-    <string name="settings_change_log_summary">רשימת השינויים בעדכונים קודמים</string>
+    <string name="about">מידע על</string>
+    <string name="change_log">שנה רישום</string>
+    <string name="change_log_summary">רשימת השינויים בעדכונים קודמים</string>
     <string name="help">עזרה ושאלות נפוצות</string>
-    <string name="settings_category_information">מידע</string>
-    <string name="settings_category_localization">מיקום</string>
-    <string name="settings_more_from_developer">עוד מהמפתח</string>
-    <string name="settings_open_source_licenses">רשיונות קוד פתוח</string>
-    <string name="settings_privacy_policy">מדיניות פרטיות</string>
-    <string name="settings_rate_this_app">דרג את האפליקצייה</string>
-    <string name="settings_send_feedback">שלח חוות דעת</string>
-    <string name="settings_share">שתף עם חברים</string>
-    <string name="settings_support_this_project">תמוך בפרויקט</string>
+    <string name="information">מידע</string>
+    <string name="localization">מיקום</string>
+    <string name="more_from_developer">עוד מהמפתח</string>
+    <string name="open_source_licenses">רשיונות קוד פתוח</string>
+    <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="rate_this_app">דרג את האפליקצייה</string>
+    <string name="send_feedback">שלח חוות דעת</string>
+    <string name="share_this_app">שתף עם חברים</string>
+    <string name="support_this_project">תמוך בפרויקט</string>
 
-    <string name="settings_theme">עיצוב</string>
+    <string name="app_theme">עיצוב</string>
     <string name="theme_system_default">ברירת מחדל של המערכת</string>
     <string name="theme_light">בהיר</string>
     <string name="theme_dark">כהה</string>
 
     <!-- app rater -->
-    <string name="ar_dialog_rate_title">דרג אפליקצייה</string>
-    <string name="ar_dialog_rate_message">אם נהנית להשתמש באפליקציה, אולי תיקח לך רגע לדרג אותה? זה לא יקח יותר מדקה.\n\nתודה על התמיכה!</string>
-    <string name="ar_dialog_rate_positive_button_rate">דרג אפליקצייה</string>
-    <string name="ar_dialog_rate_negative_button">אחר כך</string>
-    <string name="ar_dialog_rate_neutral_button">לא, תודה</string>
-    <string name="ar_unable_to_find_google_play">לא ניתן למצוא את חנות האפליקציות</string>
+    <string name="rate_app_title">דרג אפליקצייה</string>
+    <string name="rate_app_message">אם נהנית להשתמש באפליקציה, אולי תיקח לך רגע לדרג אותה? זה לא יקח יותר מדקה.\n\nתודה על התמיכה!</string>
+    <string name="rate_app_negative_button">אחר כך</string>
+    <string name="rate_app_neutral_button">לא, תודה</string>
+    <string name="rate_app_positive_button">דרג אפליקצייה</string>
+    <string name="unable_to_find_google_play">לא ניתן למצוא את חנות האפליקציות</string>
 
     <!-- about -->
-    <string name="a_feedback_message">כתוב על הבעיה או ההצעה שלך.\nתודה!\n_____</string>
-    <string name="a_about_version">גרסה</string>
+    <string name="app_feedback_message">כתוב על הבעיה או ההצעה שלך.\nתודה!\n_____</string>
+    <string name="version">גרסה</string>
 </resources>

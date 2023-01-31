@@ -28,11 +28,11 @@
     <string name="translate_to_your_language_description">Je kan helpen om de app te vertalen in je eigen taal</string>
 
     <!-- in-app purchases -->
-    <string name="settings_category_in_app_purchases">In-app aankopen</string>
+    <string name="in_app_purchases">In-app aankopen</string>
     <string name="enjoy_until">Functie beschikbaar tot: %1$s</string>
     <string name="license_validation_failed">Licentie validatie mislukt</string>
-    <string name="plus_version_iap_description">Krijg toegang tot alle functies door de volledige versie te kopen</string>
-    <string name="settings_remove_ads">Advertenties Verwijderen</string>
+    <string name="full_version_iap_description">Krijg toegang tot alle functies door de volledige versie te kopen</string>
+    <string name="remove_ads">Advertenties Verwijderen</string>
     <string name="sale_promotion">UITVERKOOP!</string>
     <string name="watch_ad">Bekijk advertentie</string>
 
@@ -50,45 +50,45 @@
     <string name="error_unknown">Onbekende fout</string>
 
     <string name="settings">Instellingen</string>
-    <string name="settings_category_general">Algemene instellingen</string>
-    <string name="time_format_regional">Regionale instellingen</string>
+    <string name="settings_general">Algemene instellingen</string>
+    <string name="settings_regional">Regionale instellingen</string>
 
     <string name="language">Taal</string>
 
-    <string name="settings_notifications">Meldingen</string>
-    <string name="settings_category_notifications">Notificatie instellingen</string>
+    <string name="notification_settings">Notificatie instellingen</string>
+    <string name="notification_sound">Geluid</string>
     <string name="notification_tone">Notificatiegeluid</string>
-    <string name="settings_notifications_sound">Geluid</string>
+    <string name="notifications">Meldingen</string>
     <string name="sound_off">Uit</string>
 
-    <string name="settings_about">Over</string>
-    <string name="settings_change_log">Wijzigingen</string>
-    <string name="settings_change_log_summary">Lijst van wijzigingen van vorige updates</string>
+    <string name="about">Over</string>
+    <string name="change_log">Wijzigingen</string>
+    <string name="change_log_summary">Lijst van wijzigingen van vorige updates</string>
     <string name="help">Hulp en veelgestelde vragen</string>
-    <string name="settings_category_information">Informatie</string>
-    <string name="settings_category_localization">Lokale instellingen</string>
-    <string name="settings_more_from_developer">Meer van deze ontwikkelaar</string>
-    <string name="settings_open_source_licenses">Open Source Licentie</string>
-    <string name="settings_privacy_policy">Privacybeleid</string>
-    <string name="settings_rate_this_app">Beoordeel deze app</string>
-    <string name="settings_send_feedback">Verstuur feedback</string>
-    <string name="settings_share">Deel met vrienden</string>
-    <string name="settings_support_this_project">Ondersteun dit project</string>
+    <string name="information">Informatie</string>
+    <string name="localization">Lokale instellingen</string>
+    <string name="more_from_developer">Meer van deze ontwikkelaar</string>
+    <string name="open_source_licenses">Open Source Licentie</string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="rate_this_app">Beoordeel deze app</string>
+    <string name="send_feedback">Verstuur feedback</string>
+    <string name="share_this_app">Deel met vrienden</string>
+    <string name="support_this_project">Ondersteun dit project</string>
 
-    <string name="settings_theme">Thema</string>
+    <string name="app_theme">Thema</string>
     <string name="theme_system_default">Systeemstandaard</string>
     <string name="theme_light">Licht</string>
     <string name="theme_dark">Donker</string>
 
     <!-- app rater -->
-    <string name="ar_dialog_rate_title">Beoordeel applicatie</string>
-    <string name="ar_dialog_rate_message">If you enjoy using our app, would you mind taking a moment to let us know how you feel?\n\nThank you for your support!</string>
-    <string name="ar_dialog_rate_positive_button_rate">Beoordeel app</string>
-    <string name="ar_dialog_rate_negative_button">Later</string>
-    <string name="ar_dialog_rate_neutral_button">Nee, dank je</string>
-    <string name="ar_unable_to_find_google_play">Kan Google Play Store app niet vinden</string>
+    <string name="rate_app_title">Beoordeel applicatie</string>
+    <string name="rate_app_message">If you enjoy using our app, would you mind taking a moment to let us know how you feel?\n\nThank you for your support!</string>
+    <string name="rate_app_negative_button">Later</string>
+    <string name="rate_app_neutral_button">Nee, dank je</string>
+    <string name="rate_app_positive_button">Beoordeel app</string>
+    <string name="unable_to_find_google_play">Kan Google Play Store app niet vinden</string>
 
     <!-- about -->
-    <string name="a_feedback_message">Schrijf over je probleem of suggestie.\nBedankt!\n_____</string>
-    <string name="a_about_version">Versie</string>
+    <string name="app_feedback_message">Schrijf over je probleem of suggestie.\nBedankt!\n_____</string>
+    <string name="version">Versie</string>
 </resources>

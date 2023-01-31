@@ -28,11 +28,11 @@
     <string name="translate_to_your_language_description">Vous pouvez aider à traduire cette application</string>
 
     <!-- in-app purchases -->
-    <string name="settings_category_in_app_purchases">Achats intégrés</string>
+    <string name="in_app_purchases">Achats intégrés</string>
     <string name="enjoy_until">Fonctionnalités disponible jusqu\'au : %1$s</string>
     <string name="license_validation_failed">La validation de la licence a échoué</string>
-    <string name="plus_version_iap_description">Accédez à toutes les fonctionnalités en achetant la version complète</string>
-    <string name="settings_remove_ads">Supprimer la pub</string>
+    <string name="full_version_iap_description">Accédez à toutes les fonctionnalités en achetant la version complète</string>
+    <string name="remove_ads">Supprimer la pub</string>
     <string name="sale_promotion">SOLDE!</string>
     <string name="watch_ad">Regarder l\'annonce</string>
 
@@ -50,45 +50,45 @@
     <string name="error_unknown">Erreur inconnue</string>
 
     <string name="settings">Paramètres</string>
-    <string name="settings_category_general">Paramètres généraux</string>
-    <string name="time_format_regional">Paramètres régionaux</string>
+    <string name="settings_general">Paramètres généraux</string>
+    <string name="settings_regional">Paramètres régionaux</string>
 
     <string name="language">Langue</string>
 
-    <string name="settings_notifications">Notifications</string>
-    <string name="settings_category_notifications">Paramètres de notification</string>
+    <string name="notification_settings">Paramètres de notification</string>
+    <string name="notification_sound">Son</string>
     <string name="notification_tone">Son de notification</string>
-    <string name="settings_notifications_sound">Son</string>
+    <string name="notifications">Notifications</string>
     <string name="sound_off">Non</string>
 
-    <string name="settings_about">À propos de</string>
-    <string name="settings_change_log">Journal des modifications</string>
-    <string name="settings_change_log_summary">Liste des modifications incluses dans les mises à jour précédentes</string>
+    <string name="about">À propos de</string>
+    <string name="change_log">Journal des modifications</string>
+    <string name="change_log_summary">Liste des modifications incluses dans les mises à jour précédentes</string>
     <string name="help">Aide et FAQ</string>
-    <string name="settings_category_information">Information</string>
-    <string name="settings_category_localization">Localisation</string>
-    <string name="settings_more_from_developer">Plus du développeur</string>
-    <string name="settings_open_source_licenses">Licences Open Source</string>
-    <string name="settings_privacy_policy">Politique de confidentialité</string>
-    <string name="settings_rate_this_app">Évaluer cette application</string>
-    <string name="settings_send_feedback">Envoyer des commentaires</string>
-    <string name="settings_share">Partager avec des amis</string>
-    <string name="settings_support_this_project">Soutenir ce projet</string>
+    <string name="information">Information</string>
+    <string name="localization">Localisation</string>
+    <string name="more_from_developer">Plus du développeur</string>
+    <string name="open_source_licenses">Licences Open Source</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="rate_this_app">Évaluer cette application</string>
+    <string name="send_feedback">Envoyer des commentaires</string>
+    <string name="share_this_app">Partager avec des amis</string>
+    <string name="support_this_project">Soutenir ce projet</string>
 
-    <string name="settings_theme">Thème</string>
+    <string name="app_theme">Thème</string>
     <string name="theme_system_default">Par défaut</string>
     <string name="theme_light">Clair</string>
     <string name="theme_dark">Sombre</string>
 
     <!-- app rater -->
-    <string name="ar_dialog_rate_title">Évaluer cette application</string>
-    <string name="ar_dialog_rate_message">Si vous aimez utiliser notre application, pourriez-vous prendre un moment pour la noter? Cela ne prendra pas plus d\'une minute.\n\nMerci pour votre soutien!</string>
-    <string name="ar_dialog_rate_positive_button_rate">Évaluer App</string>
-    <string name="ar_dialog_rate_negative_button">Plus Tard</string>
-    <string name="ar_dialog_rate_neutral_button">Non, Merci</string>
-    <string name="ar_unable_to_find_google_play">Impossible de trouver l\'application Google Play Store</string>
+    <string name="rate_app_title">Évaluer cette application</string>
+    <string name="rate_app_message">Si vous aimez utiliser notre application, pourriez-vous prendre un moment pour la noter? Cela ne prendra pas plus d\'une minute.\n\nMerci pour votre soutien!</string>
+    <string name="rate_app_negative_button">Plus Tard</string>
+    <string name="rate_app_neutral_button">Non, Merci</string>
+    <string name="rate_app_positive_button">Évaluer App</string>
+    <string name="unable_to_find_google_play">Impossible de trouver l\'application Google Play Store</string>
 
     <!-- about -->
-    <string name="a_feedback_message">Écrivez à propos de votre problème ou si vous avez des suggestions.\nMerci!\n_____</string>
-    <string name="a_about_version">Version</string>
+    <string name="app_feedback_message">Écrivez à propos de votre problème ou si vous avez des suggestions.\nMerci!\n_____</string>
+    <string name="version">Version</string>
 </resources>

@@ -28,11 +28,11 @@
     <string name="translate_to_your_language_description">このアプリをあなたの言語に翻訳するのを手伝うことができる</string>
 
     <!-- in-app purchases -->
-    <string name="settings_category_in_app_purchases">アプリ内購入</string>
+    <string name="in_app_purchases">アプリ内購入</string>
     <string name="enjoy_until">機能の利用期限： %1$s</string>
     <string name="license_validation_failed">ライセンスの検証に失敗した</string>
-    <string name="plus_version_iap_description">完全版を購入すると、すべての機能にアクセスできる</string>
-    <string name="settings_remove_ads">広告を削除</string>
+    <string name="full_version_iap_description">完全版を購入すると、すべての機能にアクセスできる</string>
+    <string name="remove_ads">広告を削除</string>
     <string name="sale_promotion">セール中！</string>
     <string name="watch_ad">広告を見る</string>
 
@@ -50,45 +50,45 @@
     <string name="error_unknown">不明なエラー</string>
 
     <string name="settings">設定</string>
-    <string name="settings_category_general">一般設定</string>
-    <string name="time_format_regional">地域の設定</string>
+    <string name="settings_general">一般設定</string>
+    <string name="settings_regional">地域の設定</string>
 
     <string name="language">言語</string>
 
-    <string name="settings_notifications">通知</string>
-    <string name="settings_category_notifications">通知設定</string>
+    <string name="notification_settings">通知設定</string>
+    <string name="notification_sound">音</string>
     <string name="notification_tone">通知音</string>
-    <string name="settings_notifications_sound">音</string>
+    <string name="notifications">通知</string>
     <string name="sound_off">オフ</string>
 
-    <string name="settings_about">約</string>
-    <string name="settings_change_log">変更ログ</string>
-    <string name="settings_change_log_summary">以前の更新に含まれる変更のリスト</string>
+    <string name="about">約</string>
+    <string name="change_log">変更ログ</string>
+    <string name="change_log_summary">以前の更新に含まれる変更のリスト</string>
     <string name="help">ヘルプとよくある質問</string>
-    <string name="settings_category_information">情報</string>
-    <string name="settings_category_localization">ローカリゼーション</string>
-    <string name="settings_more_from_developer">開発者からの詳細</string>
-    <string name="settings_open_source_licenses">オープンソースライセンス</string>
-    <string name="settings_privacy_policy">プライバシーポリシー</string>
-    <string name="settings_rate_this_app">このアプリを評価</string>
-    <string name="settings_send_feedback">フィードバックを送信</string>
-    <string name="settings_share">このアプリを共有</string>
-    <string name="settings_support_this_project">このプロジェクトを支援</string>
+    <string name="information">情報</string>
+    <string name="localization">ローカリゼーション</string>
+    <string name="more_from_developer">開発者からの詳細</string>
+    <string name="open_source_licenses">オープンソースライセンス</string>
+    <string name="privacy_policy">プライバシーポリシー</string>
+    <string name="rate_this_app">このアプリを評価</string>
+    <string name="send_feedback">フィードバックを送信</string>
+    <string name="share_this_app">このアプリを共有</string>
+    <string name="support_this_project">このプロジェクトを支援</string>
 
-    <string name="settings_theme">テーマ</string>
+    <string name="app_theme">テーマ</string>
     <string name="theme_system_default">システムデフォルト</string>
     <string name="theme_light">光</string>
     <string name="theme_dark">暗い</string>
 
     <!-- app rater -->
-    <string name="ar_dialog_rate_title">アプリケーションを評価</string>
-    <string name="ar_dialog_rate_message">アプリの利用がお好きでしたら、ご感想をお聞かせ願えないのか？&#13;\n&#13;\nご協力ありがとう！</string>
-    <string name="ar_dialog_rate_positive_button_rate">アプリを評価</string>
-    <string name="ar_dialog_rate_negative_button">後で</string>
-    <string name="ar_dialog_rate_neutral_button">結構です</string>
-    <string name="ar_unable_to_find_google_play">Google Play Storeアプリが見つからない</string>
+    <string name="rate_app_title">アプリケーションを評価</string>
+    <string name="rate_app_message">アプリの利用がお好きでしたら、ご感想をお聞かせ願えないのか？&#13;\n&#13;\nご協力ありがとう！</string>
+    <string name="rate_app_negative_button">後で</string>
+    <string name="rate_app_neutral_button">結構です</string>
+    <string name="rate_app_positive_button">アプリを評価</string>
+    <string name="unable_to_find_google_play">Google Play Storeアプリが見つからない</string>
 
     <!-- about -->
-    <string name="a_feedback_message">問題や提案について書いてください。&#13;\nありがとう！&#13;\n______</string>
-    <string name="a_about_version">バージョン</string>
+    <string name="app_feedback_message">問題や提案について書いてください。&#13;\nありがとう！&#13;\n______</string>
+    <string name="version">バージョン</string>
 </resources>

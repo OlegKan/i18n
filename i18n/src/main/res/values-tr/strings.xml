@@ -28,11 +28,11 @@
     <string name="translate_to_your_language_description">Uygulamayı dilinize çevirmek için yardımda bulunabilirsiniz</string>
 
     <!-- in-app purchases -->
-    <string name="settings_category_in_app_purchases">Uygulama İçi Satın Alım</string>
+    <string name="in_app_purchases">Uygulama İçi Satın Alım</string>
     <string name="enjoy_until">Özellik şu tarihe kadar kullanılabilir: %1$s</string>
     <string name="license_validation_failed">Lisans doğrulanamadı</string>
-    <string name="plus_version_iap_description">Tam sürümü \'ı satın alarak tüm özelliklere erişin</string>
-    <string name="settings_remove_ads">Reklamları kaldırmak</string>
+    <string name="full_version_iap_description">Tam sürümü \'ı satın alarak tüm özelliklere erişin</string>
+    <string name="remove_ads">Reklamları kaldırmak</string>
     <string name="sale_promotion">SATIŞ!</string>
     <string name="watch_ad">Reklamı İzle</string>
 
@@ -50,45 +50,45 @@
     <string name="error_unknown">Bilinmeyen hata</string>
 
     <string name="settings">Ayarlar</string>
-    <string name="settings_category_general">Genel ayarlar</string>
-    <string name="time_format_regional">Bölgesel ayarlar</string>
+    <string name="settings_general">Genel ayarlar</string>
+    <string name="settings_regional">Bölgesel ayarlar</string>
 
     <string name="language">Dil</string>
 
-    <string name="settings_notifications">Bildirimler</string>
-    <string name="settings_category_notifications">Bildirim ayarları</string>
+    <string name="notification_settings">Bildirim ayarları</string>
+    <string name="notification_sound">Ses</string>
     <string name="notification_tone">Bildirim tonu</string>
-    <string name="settings_notifications_sound">Ses</string>
+    <string name="notifications">Bildirimler</string>
     <string name="sound_off">Kapalı</string>
 
-    <string name="settings_about">Hakkında</string>
-    <string name="settings_change_log">Değişiklik kütüğü</string>
-    <string name="settings_change_log_summary">Önceki sürümlerdeki değişikliklerin listesi</string>
+    <string name="about">Hakkında</string>
+    <string name="change_log">Değişiklik kütüğü</string>
+    <string name="change_log_summary">Önceki sürümlerdeki değişikliklerin listesi</string>
     <string name="help">Yardım ve SSS</string>
-    <string name="settings_category_information">Bilgi</string>
-    <string name="settings_category_localization">Yerelleştirme</string>
-    <string name="settings_more_from_developer">Geliştiriciden daha fazlası</string>
-    <string name="settings_open_source_licenses">Açık kaynak lisansları</string>
-    <string name="settings_privacy_policy">Gizlilik Politikası</string>
-    <string name="settings_rate_this_app">Uygulamaya puan ver</string>
-    <string name="settings_send_feedback">Geri bildirim gönder</string>
-    <string name="settings_share">Arkadaşlarınızla paylaşın</string>
-    <string name="settings_support_this_project">Bu projeyi destekle</string>
+    <string name="information">Bilgi</string>
+    <string name="localization">Yerelleştirme</string>
+    <string name="more_from_developer">Geliştiriciden daha fazlası</string>
+    <string name="open_source_licenses">Açık kaynak lisansları</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="rate_this_app">Uygulamaya puan ver</string>
+    <string name="send_feedback">Geri bildirim gönder</string>
+    <string name="share_this_app">Arkadaşlarınızla paylaşın</string>
+    <string name="support_this_project">Bu projeyi destekle</string>
 
-    <string name="settings_theme">Tema</string>
+    <string name="app_theme">Tema</string>
     <string name="theme_system_default">Sistem varsayılanı</string>
     <string name="theme_light">Açık</string>
     <string name="theme_dark">Koyu</string>
 
     <!-- app rater -->
-    <string name="ar_dialog_rate_title">Uygulamaya puan ver</string>
-    <string name="ar_dialog_rate_message">Uygulamamızı beğendiyseniz, biraz vaktinizi ayırıp puan vermek ister misiniz? Bir dakikadan fazla sürmez.\n\nDesteğiniz için teşekkür ederiz!</string>
-    <string name="ar_dialog_rate_positive_button_rate">Puan Ver</string>
-    <string name="ar_dialog_rate_negative_button">Sonra</string>
-    <string name="ar_dialog_rate_neutral_button">Hayır, Teşekkürler</string>
-    <string name="ar_unable_to_find_google_play">Google Play uygulaması bulunamadı</string>
+    <string name="rate_app_title">Uygulamaya puan ver</string>
+    <string name="rate_app_message">Uygulamamızı beğendiyseniz, biraz vaktinizi ayırıp puan vermek ister misiniz? Bir dakikadan fazla sürmez.\n\nDesteğiniz için teşekkür ederiz!</string>
+    <string name="rate_app_negative_button">Sonra</string>
+    <string name="rate_app_neutral_button">Hayır, Teşekkürler</string>
+    <string name="rate_app_positive_button">Puan Ver</string>
+    <string name="unable_to_find_google_play">Google Play uygulaması bulunamadı</string>
 
     <!-- about -->
-    <string name="a_feedback_message">Sorununuzu veya tavsiyenizi açıklayın.\Teşekkürler!\n_____</string>
-    <string name="a_about_version">Versiyon</string>
+    <string name="app_feedback_message">Sorununuzu veya tavsiyenizi açıklayın.\Teşekkürler!\n_____</string>
+    <string name="version">Versiyon</string>
 </resources>

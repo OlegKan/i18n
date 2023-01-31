@@ -28,11 +28,11 @@
     <string name="translate_to_your_language_description">Pomožte přeložit aplikaci do více jazyků</string>
 
     <!-- in-app purchases -->
-    <string name="settings_category_in_app_purchases">Nákupy v aplikacích</string>
+    <string name="in_app_purchases">Nákupy v aplikacích</string>
     <string name="enjoy_until">Funkce dostupná do: %1$s</string>
     <string name="license_validation_failed">Ověření licence se nezdařilo</string>
-    <string name="plus_version_iap_description">Získejte přístup ke všem funkcím zakoupením plné verze</string>
-    <string name="settings_remove_ads">Odstranit reklamy</string>
+    <string name="full_version_iap_description">Získejte přístup ke všem funkcím zakoupením plné verze</string>
+    <string name="remove_ads">Odstranit reklamy</string>
     <string name="sale_promotion">PRODEJ!</string>
     <string name="watch_ad">Sledovat reklamu</string>
 
@@ -50,45 +50,45 @@
     <string name="error_unknown">Neznámá chyba</string>
 
     <string name="settings">Nastavení</string>
-    <string name="settings_category_general">Obecná nastavení</string>
-    <string name="time_format_regional">Místní nastavení</string>
+    <string name="settings_general">Obecná nastavení</string>
+    <string name="settings_regional">Místní nastavení</string>
 
     <string name="language">Jazyk</string>
 
-    <string name="settings_notifications">Oznámení</string>
-    <string name="settings_category_notifications">Nastavení notifikací</string>
+    <string name="notification_settings">Nastavení notifikací</string>
+    <string name="notification_sound">Zvuky</string>
     <string name="notification_tone">Zvuk notifikací</string>
-    <string name="settings_notifications_sound">Zvuky</string>
+    <string name="notifications">Oznámení</string>
     <string name="sound_off">Vypnuto</string>
 
-    <string name="settings_about">O aplikaci</string>
-    <string name="settings_change_log">Změny v aplikaci</string>
-    <string name="settings_change_log_summary">Seznam změn v předchozích verzích</string>
+    <string name="about">O aplikaci</string>
+    <string name="change_log">Změny v aplikaci</string>
+    <string name="change_log_summary">Seznam změn v předchozích verzích</string>
     <string name="help">Nápověda a časté dotazy</string>
-    <string name="settings_category_information">Informace</string>
-    <string name="settings_category_localization">Lokalizace</string>
-    <string name="settings_more_from_developer">Více od vydavatele</string>
-    <string name="settings_open_source_licenses">Licence Open Source</string>
-    <string name="settings_privacy_policy">Zásady ochrany osobních údajů</string>
-    <string name="settings_rate_this_app">Ohodnoťte aplikaci</string>
-    <string name="settings_send_feedback">Pošlete nám zpětnou vazbu</string>
-    <string name="settings_share">Sdílejte s přáteli</string>
-    <string name="settings_support_this_project">Podpořte projekt</string>
+    <string name="information">Informace</string>
+    <string name="localization">Lokalizace</string>
+    <string name="more_from_developer">Více od vydavatele</string>
+    <string name="open_source_licenses">Licence Open Source</string>
+    <string name="privacy_policy">Zásady ochrany osobních údajů</string>
+    <string name="rate_this_app">Ohodnoťte aplikaci</string>
+    <string name="send_feedback">Pošlete nám zpětnou vazbu</string>
+    <string name="share_this_app">Sdílejte s přáteli</string>
+    <string name="support_this_project">Podpořte projekt</string>
 
-    <string name="settings_theme">Motiv</string>
+    <string name="app_theme">Motiv</string>
     <string name="theme_system_default">Výchozí nastavení</string>
     <string name="theme_light">Světlý</string>
     <string name="theme_dark">Tmavý</string>
 
     <!-- app rater -->
-    <string name="ar_dialog_rate_title">Ohodňotte aplikaci</string>
-    <string name="ar_dialog_rate_message">Pokud se Vám naše aplikace líbí, mohli byste ji ohodnotit? Nezabere to více jak minutu.\n\nDěkuji za Vaši podporu!</string>
-    <string name="ar_dialog_rate_positive_button_rate">Ohodňotte aplikaci</string>
-    <string name="ar_dialog_rate_negative_button">Později</string>
-    <string name="ar_dialog_rate_neutral_button">Ne, děkuji</string>
-    <string name="ar_unable_to_find_google_play">Nelze najít aplikaci Obchod Google Play</string>
+    <string name="rate_app_title">Ohodňotte aplikaci</string>
+    <string name="rate_app_message">Pokud se Vám naše aplikace líbí, mohli byste ji ohodnotit? Nezabere to více jak minutu.\n\nDěkuji za Vaši podporu!</string>
+    <string name="rate_app_negative_button">Později</string>
+    <string name="rate_app_neutral_button">Ne, děkuji</string>
+    <string name="rate_app_positive_button">Ohodňotte aplikaci</string>
+    <string name="unable_to_find_google_play">Nelze najít aplikaci Obchod Google Play</string>
 
     <!-- about -->
-    <string name="a_feedback_message">Napište o svém problému nebo návrhu. \nDěkuji!\n_____</string>
-    <string name="a_about_version">Verze</string>
+    <string name="app_feedback_message">Napište o svém problému nebo návrhu. \nDěkuji!\n_____</string>
+    <string name="version">Verze</string>
 </resources>
