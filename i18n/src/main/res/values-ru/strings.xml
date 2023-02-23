@@ -32,7 +32,7 @@
     <string name="enjoy_until">Функция доступна до: %1$s</string>
     <string name="license_validation_failed">Проверка лицензии не удалась</string>
     <string name="full_version_iap_description">Получите доступ ко всем функциям, купив Золотой Час+</string>
-    <string name="remove_ads">Отлючить рекламу</string>
+    <string name="remove_ads">Отключить рекламу</string>
     <string name="sale_promotion">РАСПРОДАЖА!</string>
     <string name="watch_ad">Посмотреть рекламу</string>
 
